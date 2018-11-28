@@ -3,7 +3,7 @@
 	"port": 8080,
 	"cpu": 1,
 	"memory": 1024,
-	"volumes": {
+	"volum": {
 		"dados": "/var/lib/postgresql/9.6/main:rw"
 	}
 }
